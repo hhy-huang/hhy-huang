@@ -23,5 +23,5 @@
 | # |                                                              Repositories                                                              |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
 | 1 | [ARNN](https://github.com/hhy-huang/ARNN-master) |
-| 2 | [ACM_Algorithm_Study](https://github.com/hhy-huang/ACM_Algorithm_Study?tab=readme-ov-file) |
+| 2 | [LetsCode](https://github.com/hhy-huang/LetsCode?tab=readme-ov-file) |
 | 3 | [Meta-Path-Based-Random-Walk](https://github.com/hhy-huang/Meta-Path-Based-Random-Walk) |
