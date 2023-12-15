@@ -1,7 +1,7 @@
 # Hi there, I'm Haoyu Huang! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Undergrad](https://img.shields.io/badge/Undergrad-BJTU-blue)
-![UpComing Graduate](https://img.shields.io/badge/Graduate-CUHK-blue)
+![UpComing Graduate](https://img.shields.io/badge/Upcoming_Graduate-CUHK-blue)
 
 - I am currently in my gap year, as a Research Intern in CMLR@PKU and INSIS@BJTU. Before that, I worked at AI@Century Games as an AI Engineer Intern.
 - My areas of interest include data mining, graph, spatial-temproal data analysis and pretrained-language models.
