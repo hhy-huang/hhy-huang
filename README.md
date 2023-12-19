@@ -22,6 +22,6 @@
 
 | # |                                                              Repositories                                                              |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
-| 1 | [ARNN](https://github.com/hhy-huang/ARNN-master) |
+| 1 | [ARNN](https://github.com/hhy-huang/ARNN) |
 | 2 | [LetsCode](https://github.com/hhy-huang/LetsCode?tab=readme-ov-file) |
 | 3 | [Meta-Path-Based-Random-Walk](https://github.com/hhy-huang/Meta-Path-Based-Random-Walk) |
