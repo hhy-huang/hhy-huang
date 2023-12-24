@@ -3,7 +3,7 @@
 ![Undergrad](https://img.shields.io/badge/Undergrad-BJTU-blue)
 ![UpComing Graduate](https://img.shields.io/badge/Upcoming_Graduate-CUHK-blue)
 
-- I am currently in my gap year, as a Research Intern in CMLR@PKU and INSIS@BJTU. Before that, I worked at AI@Century Games as an AI Engineer Intern.
+- I am currently in my gap year, as a Research Assistant in CMLR@PKU and INSIS@BJTU. Before that, I worked at AI@Century Games as an AI Engineer Intern.
 - My areas of interest include data mining, graph, spatial-temproal data analysis and pretrained-language models.
 - I am seeking opportunities for a PhD position in 2025-Fall.
 
