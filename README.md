@@ -1,6 +1,7 @@
 # Hi there, I'm Haoyu Huang! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- I am currently in my gap year, as a Research Assistant in CMLR@PKU and INSIS@BJTU. Before that, I worked at AI@Century Games as an AI Engineer Intern.
+- I am a first-year master student of The Chinese University of Hong Kong, and work as a Research Assistant now supervised by Prof. James Cheng.
+- I am also a Research Intern in CMLR@PKU and INSIS@BJTU. Before that, I worked at AI@Century Games as an AI Engineer Intern.
 - My areas of interest include Data Mining, graph ML, Large Language Models and spatial-temproal data analysis.
 - I am seeking opportunities for a PhD position in 2025-Fall.
 
