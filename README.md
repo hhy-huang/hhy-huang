@@ -2,7 +2,7 @@
 
 - I am a first-year master student of The Chinese University of Hong Kong, and work as a Research Assistant.
 - I am also a Research Intern in CMLR@PKU and INSIS@BJTU. Before that, I worked at AI@Century Games as an AI Engineer Intern.
-- My areas of interest include Data Mining, graph ML, Large Language Models and spatial-temproal data analysis.
+- My areas of interest include Data Mining, Knowledge Graph, Large Language Models and spatial-temproal data analysis.
 - I am seeking opportunities for a PhD position in 2025-Fall.
 
 📫 [Email](mailto:haoyuhuang@bjtu.edu.cn) | [Webpage](https://hhy-huang.github.io/) | [Linkedin](https://www.linkedin.com/in/%E6%B5%A9%E7%A6%B9-%E9%BB%84-68416b291/)
