@@ -20,6 +20,7 @@
 
 | # |                                                              Repositories                                                              |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
-| 1 | [ARNN](https://github.com/hhy-huang/ARNN) |
-| 2 | [LetsCode](https://github.com/hhy-huang/LetsCode?tab=readme-ov-file) |
-| 3 | [Meta-Path-Based-Random-Walk](https://github.com/hhy-huang/Meta-Path-Based-Random-Walk) |
+| 1 | [GraphJudger](https://github.com/hhy-huang/GraphJudger) |
+| 2 | [ARNN](https://github.com/hhy-huang/ARNN) |
+| 3 | [LetsCode](https://github.com/hhy-huang/LetsCode?tab=readme-ov-file) |
+| 4 | [Meta-Path-Based-Random-Walk](https://github.com/hhy-huang/Meta-Path-Based-Random-Walk) |
