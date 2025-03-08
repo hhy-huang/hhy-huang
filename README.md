@@ -1,9 +1,8 @@
 # Hi there, I'm Haoyu Huang! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- I am a first-year master student of The Chinese University of Hong Kong, and work as a Research Assistant.
-- I am also a Research Intern in CMLR@PKU and INSIS@BJTU. Before that, I worked at AI@Century Games as an AI Engineer Intern.
-- My areas of interest include Data Mining, Knowledge Graph, Large Language Models and spatial-temproal data analysis.
-- I am seeking opportunities for a PhD position in 2025-Fall.
+- I am a master student of The Chinese University of Hong Kong.
+- I was also a Research Intern in CMLR@PKU and INSIS@BJTU. Before that, I worked at AI@Century Games as an AI Engineer Intern.
+- My areas of interest include Data Mining, Knowledge Graph and Large Language Models.
 
 📫 [Email](mailto:haoyuhuang@bjtu.edu.cn) | [Webpage](https://hhy-huang.github.io/) | [Linkedin](https://www.linkedin.com/in/%E6%B5%A9%E7%A6%B9-%E9%BB%84-68416b291/)
 
