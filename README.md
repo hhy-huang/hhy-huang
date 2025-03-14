@@ -19,7 +19,8 @@
 
 | # |                                                              Repositories                                                              |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
-| 1 | [GraphJudger](https://github.com/hhy-huang/GraphJudger) |
-| 2 | [ARNN](https://github.com/hhy-huang/ARNN) |
-| 3 | [LetsCode](https://github.com/hhy-huang/LetsCode?tab=readme-ov-file) |
-| 4 | [Meta-Path-Based-Random-Walk](https://github.com/hhy-huang/Meta-Path-Based-Random-Walk) |
+| 1 | [HiRAG](https://github.com/hhy-huang/HiRAG) |
+| 2 | [GraphJudger](https://github.com/hhy-huang/GraphJudger) |
+| 3 | [ARNN](https://github.com/hhy-huang/ARNN) |
+| 4 | [LetsCode](https://github.com/hhy-huang/LetsCode?tab=readme-ov-file) |
+| 5 | [Meta-Path-Based-Random-Walk](https://github.com/hhy-huang/Meta-Path-Based-Random-Walk) |
