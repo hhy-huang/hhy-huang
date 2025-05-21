@@ -20,7 +20,7 @@
 | # |                                                              Repositories                                                              |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
 | 1 | [HiRAG](https://github.com/hhy-huang/HiRAG) |
-| 2 | [GraphJudger](https://github.com/hhy-huang/GraphJudger) |
+| 2 | [GraphJudge](https://github.com/hhy-huang/GraphJudge) |
 | 3 | [ARNN](https://github.com/hhy-huang/ARNN) |
 | 4 | [LetsCode](https://github.com/hhy-huang/LetsCode?tab=readme-ov-file) |
 | 5 | [Meta-Path-Based-Random-Walk](https://github.com/hhy-huang/Meta-Path-Based-Random-Walk) |
