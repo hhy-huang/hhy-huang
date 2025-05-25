@@ -14,13 +14,3 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Git](https://img.shields.io/badge/-git-000?&logo=git)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-
-## Current Repositories
-
-| # |                                                              Repositories                                                              |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
-| 1 | [HiRAG](https://github.com/hhy-huang/HiRAG) |
-| 2 | [GraphJudge](https://github.com/hhy-huang/GraphJudge) |
-| 3 | [ARNN](https://github.com/hhy-huang/ARNN) |
-| 4 | [LetsCode](https://github.com/hhy-huang/LetsCode?tab=readme-ov-file) |
-| 5 | [Meta-Path-Based-Random-Walk](https://github.com/hhy-huang/Meta-Path-Based-Random-Walk) |
