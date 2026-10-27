@@ -1,1 +1,1 @@
-A Ph.D. student focused on LLM Memory.
+A Ph.D. student focused on Agent Training and LLM Memory.
